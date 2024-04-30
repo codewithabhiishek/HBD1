@@ -211,10 +211,12 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 2em;
   margin: 0;
   text-transform: uppercase;
+  vertical-align: top; /* Adjust the vertical alignment */
 }
+
 
 .wish h5 {
   font-weight: lighter;
